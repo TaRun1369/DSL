@@ -1,0 +1,23 @@
+12:41:03 **** Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:31:5: warning: unused variable ‘i’ [-Wunused-variable]
+   31 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:159:5: warning: unused variable ‘r’ [-Wunused-variable]
+  159 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+
+12:41:04 Build Finished. 0 errors, 2 warnings. (took 1s.92ms)
+

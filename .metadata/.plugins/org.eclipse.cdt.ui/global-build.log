@@ -1,0 +1,949 @@
+08:44:41 **** Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+08:47:01 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+08:47:02 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+09:54:14 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+09:54:29 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+09:20:01 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+09:50:29 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp:131:7: warning: missing terminating " character
+  131 | cout<<" Screen
+      |       ^
+../src/!st_Cpp.cpp:131:7: error: missing terminating " character
+  131 | cout<<" Screen
+      |       ^~~~~~~~
+../src/!st_Cpp.cpp:132:10: error: stray ‘\’ in program
+  132 | this way \n";
+      |          ^
+../src/!st_Cpp.cpp:132:12: warning: missing terminating " character
+  132 | this way \n";
+      |            ^
+../src/!st_Cpp.cpp:132:12: error: missing terminating " character
+  132 | this way \n";
+      |            ^~
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:103:5: warning: unused variable ‘i’ [-Wunused-variable]
+  103 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::display()’:
+../src/!st_Cpp.cpp:132:5: error: expected ‘;’ before ‘way’
+  132 | this way \n";
+      |     ^~~~
+      |     ;
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:229:5: warning: unused variable ‘r’ [-Wunused-variable]
+  229 | int r=1;
+      |     ^
+make: *** [src/subdir.mk:20: src/!st_Cpp.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:58:17 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:103:5: warning: unused variable ‘i’ [-Wunused-variable]
+  103 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:228:5: warning: unused variable ‘r’ [-Wunused-variable]
+  228 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+09:58:28 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+09:59:18 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+09:59:19 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+10:00:17 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+10:00:17 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+11:15:34 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:103:5: warning: unused variable ‘i’ [-Wunused-variable]
+  103 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:228:5: warning: unused variable ‘r’ [-Wunused-variable]
+  228 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+11:18:03 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+11:31:43 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+11:32:34 **** Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/7thORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/7thORpart.d" -MT"src/7thORpart.o" -o "src/7thORpart.o" "../src/7thORpart.cpp"
+../src/7thORpart.cpp:38:8: warning: character constant too long for its type
+   38 |  cout<<'Enter size of binary number :'<<endl;
+      |        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../src/7thORpart.cpp: In member function ‘void binary_ll::input()’:
+../src/7thORpart.cpp:43:26: error: no matching function for call to ‘std::__cxx11::basic_string<char>::basic_string(int&)’
+   43 |   cout<<"Enter "+(string)i+"th digit of binary number : "<<endl;
+      |                          ^
+In file included from /usr/include/c++/9/string:55,
+                 from /usr/include/c++/9/bits/locale_classes.h:40,
+                 from /usr/include/c++/9/bits/ios_base.h:41,
+                 from /usr/include/c++/9/ios:42,
+                 from /usr/include/c++/9/ostream:38,
+                 from /usr/include/c++/9/iostream:39,
+                 from ../src/7thORpart.cpp:9:
+/usr/include/c++/9/bits/basic_string.h:629:9: note: candidate: ‘template<class _InputIterator, class> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(_InputIterator, _InputIterator, const _Alloc&)’
+  629 |         basic_string(_InputIterator __beg, _InputIterator __end,
+      |         ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:629:9: note:   template argument deduction/substitution failed:
+../src/7thORpart.cpp:43:26: note:   candidate expects 3 arguments, 1 provided
+   43 |   cout<<"Enter "+(string)i+"th digit of binary number : "<<endl;
+      |                          ^
+In file included from /usr/include/c++/9/string:55,
+                 from /usr/include/c++/9/bits/locale_classes.h:40,
+                 from /usr/include/c++/9/bits/ios_base.h:41,
+                 from /usr/include/c++/9/ios:42,
+                 from /usr/include/c++/9/ostream:38,
+                 from /usr/include/c++/9/iostream:39,
+                 from ../src/7thORpart.cpp:9:
+/usr/include/c++/9/bits/basic_string.h:591:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]’
+  591 |       basic_string(basic_string&& __str, const _Alloc& __a)
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:591:7: note:   candidate expects 2 arguments, 1 provided
+/usr/include/c++/9/bits/basic_string.h:587:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]’
+  587 |       basic_string(const basic_string& __str, const _Alloc& __a)
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:587:7: note:   candidate expects 2 arguments, 1 provided
+/usr/include/c++/9/bits/basic_string.h:583:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(std::initializer_list<_Tp>, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]’
+  583 |       basic_string(initializer_list<_CharT> __l, const _Alloc& __a = _Alloc())
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:583:45: note:   no known conversion for argument 1 from ‘int’ to ‘std::initializer_list<char>’
+  583 |       basic_string(initializer_list<_CharT> __l, const _Alloc& __a = _Alloc())
+      |                    ~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+/usr/include/c++/9/bits/basic_string.h:556:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]’
+  556 |       basic_string(basic_string&& __str) noexcept
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:556:35: note:   no known conversion for argument 1 from ‘int’ to ‘std::__cxx11::basic_string<char>&&’
+  556 |       basic_string(basic_string&& __str) noexcept
+      |                    ~~~~~~~~~~~~~~~^~~~~
+/usr/include/c++/9/bits/basic_string.h:544:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, _CharT, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = long unsigned int]’
+  544 |       basic_string(size_type __n, _CharT __c, const _Alloc& __a = _Alloc())
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:544:7: note:   candidate expects 3 arguments, 1 provided
+/usr/include/c++/9/bits/basic_string.h:529:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const _CharT*, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]’ <near match>
+  529 |       basic_string(const _CharT* __s, const _Alloc& __a = _Alloc())
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:529:7: note:   conversion of argument 1 would be ill-formed:
+../src/7thORpart.cpp:43:26: error: invalid conversion from ‘int’ to ‘const char*’ [-fpermissive]
+   43 |   cout<<"Enter "+(string)i+"th digit of binary number : "<<endl;
+      |                          ^
+      |                          |
+      |                          int
+In file included from /usr/include/c++/9/string:55,
+                 from /usr/include/c++/9/bits/locale_classes.h:40,
+                 from /usr/include/c++/9/bits/ios_base.h:41,
+                 from /usr/include/c++/9/ios:42,
+                 from /usr/include/c++/9/ostream:38,
+                 from /usr/include/c++/9/iostream:39,
+                 from ../src/7thORpart.cpp:9:
+/usr/include/c++/9/bits/basic_string.h:514:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = long unsigned int]’
+  514 |       basic_string(const _CharT* __s, size_type __n,
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:514:7: note:   candidate expects 3 arguments, 1 provided
+/usr/include/c++/9/bits/basic_string.h:496:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = long unsigned int]’
+  496 |       basic_string(const basic_string& __str, size_type __pos,
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:496:7: note:   candidate expects 4 arguments, 1 provided
+/usr/include/c++/9/bits/basic_string.h:480:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = long unsigned int]’
+  480 |       basic_string(const basic_string& __str, size_type __pos,
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:480:7: note:   candidate expects 3 arguments, 1 provided
+/usr/include/c++/9/bits/basic_string.h:465:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = long unsigned int]’
+  465 |       basic_string(const basic_string& __str, size_type __pos,
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:465:7: note:   candidate expects 3 arguments, 1 provided
+/usr/include/c++/9/bits/basic_string.h:452:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]’
+  452 |       basic_string(const basic_string& __str)
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:452:40: note:   no known conversion for argument 1 from ‘int’ to ‘const std::__cxx11::basic_string<char>&’
+  452 |       basic_string(const basic_string& __str)
+      |                    ~~~~~~~~~~~~~~~~~~~~^~~~~
+/usr/include/c++/9/bits/basic_string.h:444:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]’
+  444 |       basic_string(const _Alloc& __a) _GLIBCXX_NOEXCEPT
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:444:34: note:   no known conversion for argument 1 from ‘int’ to ‘const std::allocator<char>&’
+  444 |       basic_string(const _Alloc& __a) _GLIBCXX_NOEXCEPT
+      |                    ~~~~~~~~~~~~~~^~~
+/usr/include/c++/9/bits/basic_string.h:435:7: note: candidate: ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string() [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]’
+  435 |       basic_string()
+      |       ^~~~~~~~~~~~
+/usr/include/c++/9/bits/basic_string.h:435:7: note:   candidate expects 0 arguments, 1 provided
+make: *** [src/subdir.mk:20: src/7thORpart.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:33:18 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/7thORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/7thORpart.d" -MT"src/7thORpart.o" -o "src/7thORpart.o" "../src/7thORpart.cpp"
+../src/7thORpart.cpp:38:8: warning: character constant too long for its type
+   38 |  cout<<'Enter size of binary number :'<<endl;
+      |        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/7thORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/7thORpart.o   
+Finished building target: 7thORpart
+ 
+11:33:47 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/7thORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/7thORpart.d" -MT"src/7thORpart.o" -o "src/7thORpart.o" "../src/7thORpart.cpp"
+Finished building: ../src/7thORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/7thORpart.o   
+Finished building target: 7thORpart
+ 
+11:40:19 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/7thORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/7thORpart.d" -MT"src/7thORpart.o" -o "src/7thORpart.o" "../src/7thORpart.cpp"
+Finished building: ../src/7thORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/7thORpart.o   
+Finished building target: 7thORpart
+ 
+11:42:45 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/7thORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/7thORpart.d" -MT"src/7thORpart.o" -o "src/7thORpart.o" "../src/7thORpart.cpp"
+Finished building: ../src/7thORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/7thORpart.o   
+Finished building target: 7thORpart
+ 
+11:45:11 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:103:5: warning: unused variable ‘i’ [-Wunused-variable]
+  103 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:228:5: warning: unused variable ‘r’ [-Wunused-variable]
+  228 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+11:45:40 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:103:5: warning: unused variable ‘i’ [-Wunused-variable]
+  103 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:228:5: warning: unused variable ‘r’ [-Wunused-variable]
+  228 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+11:46:40 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:103:5: warning: unused variable ‘i’ [-Wunused-variable]
+  103 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:228:5: warning: unused variable ‘r’ [-Wunused-variable]
+  228 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+11:47:44 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:103:5: warning: unused variable ‘i’ [-Wunused-variable]
+  103 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:228:5: warning: unused variable ‘r’ [-Wunused-variable]
+  228 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+11:56:21 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+11:56:29 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/7thORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/7thORpart.d" -MT"src/7thORpart.o" -o "src/7thORpart.o" "../src/7thORpart.cpp"
+Finished building: ../src/7thORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/7thORpart.o   
+Finished building target: 7thORpart
+ 
+11:57:51 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"   
+g++: fatal error: no input files
+compilation terminated.
+make: *** [makefile:60: 7thORpart] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:58:31 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+Finished building: ../src/seventhORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/seventhORpart.o   
+Finished building target: 7thORpart
+ 
+11:58:53 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+11:59:11 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+11:59:14 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:00:54 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:01:00 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:01:04 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:01:06 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:01:12 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:01:15 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:01:18 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:01:20 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:16:16 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:16:26 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:22:19 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:22:21 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:22:25 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:22:37 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:22:40 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:22:55 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:23:41 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:23:44 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:29:05 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:29:08 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:29:11 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:29:13 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+12:32:32 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:104:5: warning: unused variable ‘i’ [-Wunused-variable]
+  104 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:231:5: warning: unused variable ‘r’ [-Wunused-variable]
+  231 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+12:33:34 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:104:5: warning: unused variable ‘i’ [-Wunused-variable]
+  104 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:232:5: warning: unused variable ‘r’ [-Wunused-variable]
+  232 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+12:33:52 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+make: Nothing to be done for 'all'.
+12:34:44 **** Incremental Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:104:5: warning: unused variable ‘i’ [-Wunused-variable]
+  104 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:232:5: warning: unused variable ‘r’ [-Wunused-variable]
+  232 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+12:40:01 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+09:19:42 **** Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+Finished building: ../src/seventhORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/seventhORpart.o   
+Finished building target: 7thORpart
+ 
+09:20:14 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+Finished building: ../src/seventhORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/seventhORpart.o   
+Finished building target: 7thORpart
+ 
+09:20:53 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+09:21:10 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+Finished building: ../src/seventhORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/seventhORpart.o   
+Finished building target: 7thORpart
+ 
+09:24:52 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+Finished building: ../src/seventhORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/seventhORpart.o   
+Finished building target: 7thORpart
+ 
+09:32:41 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+09:33:10 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+../src/seventhORpart.cpp: In member function ‘void second::one()’:
+../src/seventhORpart.cpp:36:2: warning: ‘newdata’ is used uninitialized in this function [-Wuninitialized]
+   36 |  if(newdata == '0'){
+      |  ^~
+Finished building: ../src/seventhORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/seventhORpart.o   
+Finished building target: 7thORpart
+ 
+09:38:44 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+09:39:05 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+Finished building: ../src/seventhORpart.cpp
+ 
+Building target: 7thORpart
+Invoking: GCC C++ Linker
+g++  -o "7thORpart"  ./src/seventhORpart.o   
+Finished building target: 7thORpart
+ 
+10:21:56 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+make: Nothing to be done for 'all'.
+11:20:44 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+../src/seventhORpart.cpp: In function ‘int main()’:
+../src/seventhORpart.cpp:133:3: error: expected initializer before ‘obj’
+  133 |   obj.add(obj1);
+      |   ^~~
+make: *** [src/subdir.mk:20: src/seventhORpart.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:24:59 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+../src/seventhORpart.cpp: In function ‘int main()’:
+../src/seventhORpart.cpp:133:3: error: expected initializer before ‘obj’
+  133 |   obj.add(obj1);
+      |   ^~~
+make: *** [src/subdir.mk:20: src/seventhORpart.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:25:27 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+../src/seventhORpart.cpp: In function ‘int main()’:
+../src/seventhORpart.cpp:133:3: error: expected initializer before ‘obj’
+  133 |   obj.add(obj1);
+      |   ^~~
+make: *** [src/subdir.mk:20: src/seventhORpart.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:31:08 **** Build of configuration Debug for project 8th ****
+make all 
+Building file: ../src/8th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/8th.d" -MT"src/8th.o" -o "src/8th.o" "../src/8th.cpp"
+Finished building: ../src/8th.cpp
+ 
+Building target: 8th
+Invoking: GCC C++ Linker
+g++  -o "8th"  ./src/8th.o   
+Finished building target: 8th
+ 
+11:31:33 **** Incremental Build of configuration Debug for project 8th ****
+make all 
+make: Nothing to be done for 'all'.
+11:33:23 **** Incremental Build of configuration Debug for project 8th ****
+make all 
+Building file: ../src/8th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/8th.d" -MT"src/8th.o" -o "src/8th.o" "../src/8th.cpp"
+../src/8th.cpp: In member function ‘void App_Shedule::sort_App()’:
+../src/8th.cpp:213:10: warning: unused variable ‘j’ [-Wunused-variable]
+  213 |    int i,j,val;
+      |          ^
+Finished building: ../src/8th.cpp
+ 
+Building target: 8th
+Invoking: GCC C++ Linker
+g++  -o "8th"  ./src/8th.o   
+Finished building target: 8th
+ 
+11:33:47 **** Incremental Build of configuration Debug for project 8th ****
+make all 
+make: Nothing to be done for 'all'.
+11:34:42 **** Incremental Build of configuration Debug for project 8th ****
+make all 
+make: Nothing to be done for 'all'.
+12:03:18 **** Incremental Build of configuration Debug for project 8th ****
+make all 
+Building file: ../src/8th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/8th.d" -MT"src/8th.o" -o "src/8th.o" "../src/8th.cpp"
+../src/8th.cpp: In member function ‘void App_Shedule::sort_App()’:
+../src/8th.cpp:213:10: warning: unused variable ‘j’ [-Wunused-variable]
+  213 |    int i,j,val;
+      |          ^
+Finished building: ../src/8th.cpp
+ 
+Building target: 8th
+Invoking: GCC C++ Linker
+g++  -o "8th"  ./src/8th.o   
+Finished building target: 8th
+ 
+12:16:32 **** Incremental Build of configuration Debug for project 8th ****
+make all 
+make: Nothing to be done for 'all'.
+12:24:07 **** Build of configuration Debug for project 8thORPart ****
+make all 
+Building file: ../src/8thORPart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/8thORPart.d" -MT"src/8thORPart.o" -o "src/8thORPart.o" "../src/8thORPart.cpp"
+Finished building: ../src/8thORPart.cpp
+ 
+Building target: 8thORPart
+Invoking: GCC C++ Linker
+g++  -o "8thORPart"  ./src/8thORPart.o   
+Finished building target: 8thORPart
+ 
+12:24:24 **** Incremental Build of configuration Debug for project 8thORPart ****
+make all 
+make: Nothing to be done for 'all'.
+12:40:46 **** Incremental Build of configuration Debug for project 7thORpart ****
+make all 
+Building file: ../src/seventhORpart.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/seventhORpart.d" -MT"src/seventhORpart.o" -o "src/seventhORpart.o" "../src/seventhORpart.cpp"
+../src/seventhORpart.cpp: In function ‘int main()’:
+../src/seventhORpart.cpp:133:3: error: expected initializer before ‘obj’
+  133 |   obj.add(obj1);
+      |   ^~~
+make: *** [src/subdir.mk:20: src/seventhORpart.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:41:03 **** Build of configuration Debug for project !st_Cpp ****
+make all 
+Building file: ../src/!st_Cpp.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/!st_Cpp.d" -MT"src/!st_Cpp.o" -o "src/!st_Cpp.o" "../src/!st_Cpp.cpp"
+../src/!st_Cpp.cpp: In member function ‘void cinemax::create_list()’:
+../src/!st_Cpp.cpp:31:5: warning: unused variable ‘i’ [-Wunused-variable]
+   31 | int i=1;
+      |     ^
+../src/!st_Cpp.cpp: In member function ‘void cinemax::avail()’:
+../src/!st_Cpp.cpp:159:5: warning: unused variable ‘r’ [-Wunused-variable]
+  159 | int r=1;
+      |     ^
+Finished building: ../src/!st_Cpp.cpp
+ 
+Building target: !st_Cpp
+Invoking: GCC C++ Linker
+g++  -o "!st_Cpp"  ./src/!st_Cpp.o   
+Finished building target: !st_Cpp
+ 
+12:43:17 **** Incremental Build of configuration Debug for project 8th ****
+make all 
+make: Nothing to be done for 'all'.
+12:44:00 **** Incremental Build of configuration Debug for project 8th ****
+make all 
+make: Nothing to be done for 'all'.
+08:46:58 **** Build of configuration Debug for project 9th ****
+make all 
+Building file: ../src/9th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/9th.d" -MT"src/9th.o" -o "src/9th.o" "../src/9th.cpp"
+Finished building: ../src/9th.cpp
+ 
+Building target: 9th
+Invoking: GCC C++ Linker
+g++  -o "9th"  ./src/9th.o   
+Finished building target: 9th
+ 
+08:47:58 **** Incremental Build of configuration Debug for project 9th ****
+make all 
+make: Nothing to be done for 'all'.
+08:51:32 **** Incremental Build of configuration Debug for project 9th ****
+make all 
+Building file: ../src/9th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/9th.d" -MT"src/9th.o" -o "src/9th.o" "../src/9th.cpp"
+Finished building: ../src/9th.cpp
+ 
+Building target: 9th
+Invoking: GCC C++ Linker
+g++  -o "9th"  ./src/9th.o   
+Finished building target: 9th
+ 
+08:53:48 **** Incremental Build of configuration Debug for project 9th ****
+make all 
+make: Nothing to be done for 'all'.
+08:53:57 **** Incremental Build of configuration Debug for project 9th ****
+make all 
+make: Nothing to be done for 'all'.
+08:54:15 **** Incremental Build of configuration Debug for project 9th ****
+make all 
+make: Nothing to be done for 'all'.
+08:54:28 **** Incremental Build of configuration Debug for project 9th ****
+make all 
+make: Nothing to be done for 'all'.
+08:54:35 **** Incremental Build of configuration Debug for project 9th ****
+make all 
+make: Nothing to be done for 'all'.
+10:50:30 **** Incremental Build of configuration Debug for project 9th ****
+make all 
+make: Nothing to be done for 'all'.
+11:35:45 **** Build of configuration Debug for project 10th ****
+make all 
+Building file: ../src/10th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/10th.d" -MT"src/10th.o" -o "src/10th.o" "../src/10th.cpp"
+Finished building: ../src/10th.cpp
+ 
+Building target: 10th
+Invoking: GCC C++ Linker
+g++  -o "10th"  ./src/10th.o   
+Finished building target: 10th
+ 
+11:36:08 **** Incremental Build of configuration Debug for project 10th ****
+make all 
+make: Nothing to be done for 'all'.
+11:36:24 **** Incremental Build of configuration Debug for project 10th ****
+make all 
+Building file: ../src/10th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/10th.d" -MT"src/10th.o" -o "src/10th.o" "../src/10th.cpp"
+../src/10th.cpp:2:9: fatal error: conio.h: No such file or directory
+    2 | #include<conio.h>
+      |         ^~~~~~~~~
+compilation terminated.
+make: *** [src/subdir.mk:20: src/10th.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:36:45 **** Incremental Build of configuration Debug for project 10th ****
+make all 
+Building file: ../src/10th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/10th.d" -MT"src/10th.o" -o "src/10th.o" "../src/10th.cpp"
+Finished building: ../src/10th.cpp
+ 
+Building target: 10th
+Invoking: GCC C++ Linker
+g++  -o "10th"  ./src/10th.o   
+Finished building target: 10th
+ 
+12:05:15 **** Incremental Build of configuration Debug for project 10th ****
+make all 
+make: Nothing to be done for 'all'.
+12:09:44 **** Incremental Build of configuration Debug for project 10th ****
+make all 
+make: Nothing to be done for 'all'.
+12:16:18 **** Incremental Build of configuration Debug for project 10th ****
+make all 
+Building file: ../src/10th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/10th.d" -MT"src/10th.o" -o "src/10th.o" "../src/10th.cpp"
+Finished building: ../src/10th.cpp
+ 
+Building target: 10th
+Invoking: GCC C++ Linker
+g++  -o "10th"  ./src/10th.o   
+Finished building target: 10th
+ 
+09:00:32 **** Build of configuration Debug for project 13th ****
+make all 
+Building file: ../src/13th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/13th.d" -MT"src/13th.o" -o "src/13th.o" "../src/13th.cpp"
+../src/13th.cpp:151:2: error: expected unqualified-id before ‘...’ token
+  151 | }............................................................................................................................................................................................................................................................................................................................................................................................................
+      |  ^~~
+make: *** [src/subdir.mk:20: src/13th.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:01:03 **** Incremental Build of configuration Debug for project 13th ****
+make all 
+Building file: ../src/13th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/13th.d" -MT"src/13th.o" -o "src/13th.o" "../src/13th.cpp"
+../src/13th.cpp:151:2: error: expected unqualified-id before ‘...’ token
+  151 | }............................................................................................................................................................................................................................................................................................................................................................................................................
+      |  ^~~
+make: *** [src/subdir.mk:20: src/13th.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:01:35 **** Incremental Build of configuration Debug for project 13th ****
+make all 
+Building file: ../src/13th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/13th.d" -MT"src/13th.o" -o "src/13th.o" "../src/13th.cpp"
+../src/13th.cpp:151:2: error: expected unqualified-id before ‘...’ token
+  151 | }............................................................................................................................................................................................................................................................................................................................................................................................................
+      |  ^~~
+make: *** [src/subdir.mk:20: src/13th.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+10:14:21 **** Incremental Build of configuration Debug for project 13th ****
+make all 
+Building file: ../src/13th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/13th.d" -MT"src/13th.o" -o "src/13th.o" "../src/13th.cpp"
+Finished building: ../src/13th.cpp
+ 
+Building target: 13th
+Invoking: GCC C++ Linker
+g++  -o "13th"  ./src/13th.o   
+Finished building target: 13th
+ 
+10:15:03 **** Incremental Build of configuration Debug for project 13th ****
+make all 
+make: Nothing to be done for 'all'.
+10:19:08 **** Incremental Build of configuration Debug for project 13th ****
+make all 
+make: Nothing to be done for 'all'.
+10:21:13 **** Build of configuration Debug for project 11th ****
+make all 
+Building file: ../src/11th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/11th.d" -MT"src/11th.o" -o "src/11th.o" "../src/11th.cpp"
+Finished building: ../src/11th.cpp
+ 
+Building target: 11th
+Invoking: GCC C++ Linker
+g++  -o "11th"  ./src/11th.o   
+Finished building target: 11th
+ 
+10:22:11 **** Incremental Build of configuration Debug for project 11th ****
+make all 
+make: Nothing to be done for 'all'.

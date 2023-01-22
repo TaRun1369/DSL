@@ -1,0 +1,15 @@
+12:16:18 **** Incremental Build of configuration Debug for project 10th ****
+make all 
+Building file: ../src/10th.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/10th.d" -MT"src/10th.o" -o "src/10th.o" "../src/10th.cpp"
+Finished building: ../src/10th.cpp
+ 
+Building target: 10th
+Invoking: GCC C++ Linker
+g++  -o "10th"  ./src/10th.o   
+Finished building target: 10th
+ 
+
+12:16:19 Build Finished. 0 errors, 0 warnings. (took 931ms)
+
